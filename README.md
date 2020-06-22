@@ -1,8 +1,7 @@
 # Datasets
 - [pageb_benchmarks.zip](https://ir.library.oregonstate.edu/concern/parent/47429f155/file_sets/1g05fh87w)
 
-- [wine_benchmarks.zip](https://ir.library.oregonstate.edu/concern/parent/47429f155/file_sets/9p290g47x)
-
+- [wave_benchmarks.zip](https://ir.library.oregonstate.edu/concern/parent/47429f155/file_sets/jh343z59f)
 # 要求
 使用Python Outlier Detection (PyOD)或其他已知的工具包来完成分析工作
 
